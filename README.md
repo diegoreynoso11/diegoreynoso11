@@ -1,6 +1,6 @@
 
 
-## HI! <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="25px"/>
+## Hi! <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/animated/1f44b.gif" width="25px"/>
 
 My name is Diego Reynoso, I was born in Casilda-Santa Fé- Argentina
 
